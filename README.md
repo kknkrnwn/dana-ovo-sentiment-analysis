@@ -62,18 +62,18 @@ Reducing words to their base or root form (e.g., converting "perbaiki" or "mengi
 
 The processed text datasets and model prediction results are mapped into various visual charts to evaluate model performance and compare metrics between DANA and OVO:
 
-##### 📊 A. Model Performance (Confusion Matrix)
+##### 📊 Model Performance (Confusion Matrix)
 This matrix evaluates the accuracy and prediction behavior of the SVM model, mapping true labels against predicted labels to highlight accurate predictions and misclassifications:
 
 <img width="650" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/130db84c-ef2a-40e9-8a78-189b082e8360" />
 
-##### 📊 B. SVM Sentiment Distribution (Bar Chart)
+##### 📊 SVM Sentiment Distribution (Bar Chart)
 A structured bar chart displaying the final volume of reviews categorized into Positive, Negative, and Neutral classes based on the SVM classification results:
 
 <img width="650" alt="Bar Chart" src="https://github.com/user-attachments/assets/becf5b0d-bc9c-4842-beae-aaf940a573d2" />
 
 
-##### 📊 C. Model Evaluation Comparison 
+##### 📊 Model Evaluation Comparison 
 A side-by-side comparison stacking DANA and OVO across major evaluation metrics (Accuracy, Precision, Recall, and F1-Score) to determine model stability:
 
 <img width="650" alt="Metrics Benchmarking" src="https://github.com/user-attachments/assets/2a70cc14-8269-4a48-ad67-42ef435322ed" />
